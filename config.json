@@ -1,4 +1,19 @@
 {
-    "Authorization_Token": "MTQzMDgyMjY2NTA5ODM2Njk3Nw.Gd6HrB.dFdb4vUzY1H9NdPCCb4eOrc50t007HoUSxl9f8",
-  }
-  
+  "clientId": "1477986091268177982",
+  "details": "Mera Custom RPC",
+  "state": "24/7 Chal Raha Hai",
+  "largeImage": "large_image_name",
+  "largeImageText": "Yeh badi image hai",
+  "smallImage": "small_image_name",
+  "smallImageText": "Yeh chhoti image hai",
+  "buttons": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/yourprofile"
+    },
+    {
+      "label": "Website",
+      "url": "https://yourwebsite.com"
+    }
+  ]
+}
